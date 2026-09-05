@@ -1,0 +1,72 @@
+ENTROPIC FUSION PUBLIC CRYPTANALYSIS EVALUATION LICENCE 0.1
+
+Copyright © 2026 Entropic Fusion Project. All rights reserved.
+
+This software, source code, documentation, test data and associated materials (collectively, the “Software”) are proprietary research materials. They are made publicly available for evaluation and bona fide security research under the terms below. This is not an OSI-approved open-source licence.
+
+1. PERMITTED SECURITY RESEARCH
+
+You may, for non-commercial bona fide security research and evaluation:
+
+(a) download, install, execute and test the Software;
+(b) inspect, reverse engineer, disassemble, decompile, instrument, fuzz, benchmark and cryptanalyse the Software;
+(c) modify local copies for the purpose of testing or demonstrating a security or cryptanalytic result;
+(d) create and publish attack code, proofs of concept, test harnesses, patches and reproducible research findings; and
+(e) quote, describe and discuss the Software and its published documentation in research, academic, journalistic and technical work.
+
+These research permissions do not expire merely because an end-user evaluation period has ended.
+
+2. END-USER EVALUATION PERIOD
+
+Use of the Software as an operational encryption/storage product, rather than for bona fide security research, is licensed for evaluation for 120 days from the user's first operational use of a particular beta release.
+
+After that evaluation period, continued operational use to create new protected material requires a separate licence from the rights holder. Decryption, recovery and security research are not restricted by this paragraph.
+
+A particular beta build may or may not technically enforce this period. Absence of a technical lock does not extend the licence grant.
+
+3. NON-COMMERCIAL REDISTRIBUTION
+
+You may redistribute unmodified copies of the Software for non-commercial research or evaluation only if this licence, copyright notices, version information and security/research notices remain intact.
+
+You may publish source patches, diffs and research forks for non-commercial research provided they are clearly marked as unofficial and modified, retain this licence, and do not imply endorsement by or affiliation with the Entropic Fusion Project.
+
+4. PROHIBITED USES WITHOUT A SEPARATE WRITTEN LICENCE
+
+You may not, without separate written permission:
+
+(a) sell, rent, lease, sublicense or commercially distribute the Software;
+(b) use the Software to provide a paid encryption, storage, hosted, managed-security or cryptographic service;
+(c) incorporate the Software or substantial portions of it into a commercial product or service;
+(d) rebrand or represent the Software as your own product;
+(e) remove or falsify copyright, provenance, version, licence or research-status notices; or
+(f) use the project names, logos or branding in a manner likely to imply that an unofficial product is an official EFI or Entropic Fusion release.
+
+5. RESEARCH PUBLICATION
+
+You do not need permission to publish truthful research findings, including adverse findings, vulnerabilities, attacks, benchmarks or criticism. Reproducible publication is encouraged.
+
+6. NO SECURITY CERTIFICATION OR WARRANTY
+
+THE SOFTWARE IS EXPERIMENTAL RESEARCH SOFTWARE AND IS NOT FORMALLY CERTIFIED. IT IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, SECURITY, AVAILABILITY OR ERROR-FREE OPERATION.
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE RIGHTS HOLDER SHALL NOT BE LIABLE FOR ANY LOSS, DAMAGE, DATA LOSS, BUSINESS INTERRUPTION OR OTHER CLAIM ARISING FROM USE OF OR INABILITY TO USE THE SOFTWARE.
+
+7. NO TRADEMARK TRANSFER
+
+This licence grants no ownership of, or general licence to use, any Entropic Fusion or EFI trade name, logo, mark or product identity except as reasonably necessary to identify the genuine Software or discuss research concerning it.
+
+8. NO PATENT REPRESENTATION
+
+Nothing in this licence represents that any feature is patented, patent-pending, patentable, or free of third-party patent rights. No patent rights are expressly granted by this licence.
+
+9. TERMINATION
+
+Rights granted under this licence terminate automatically upon material breach. Sections concerning research publication, disclaimers and previously lawful publications survive termination to the extent permitted by law.
+
+10. SEPARATE COMMERCIAL LICENSING
+
+Commercial, OEM, enterprise, embedded, hosted and redistribution licences may be offered separately by the rights holder.
+
+11. LEGAL REVIEW
+
+This licence is a project-drafted research licence and should be reviewed by qualified legal counsel before being relied on for a commercial public release.
