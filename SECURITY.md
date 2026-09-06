@@ -1,6 +1,6 @@
 # Security Research and Vulnerability Reporting
 
-EFI 1.0.0-beta.5 is intentionally published for cryptanalysis and security research.
+EFI 1.0.0-beta.7 is intentionally published for cryptanalysis and security research.
 
 Researchers are expressly permitted under the accompanying licence to inspect, reverse engineer, instrument, fuzz, benchmark, modify for research, and cryptanalyse the software and its file formats, and to publish reproducible findings.
 
