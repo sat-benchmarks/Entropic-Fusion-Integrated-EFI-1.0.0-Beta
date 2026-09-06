@@ -2,7 +2,7 @@
 
 ## Public Cryptanalysis Beta
 
-EFI 1.0.0-beta.5 is an experimental research cryptography system released for independent inspection, reverse engineering and cryptanalysis.
+EFI 1.0.0-beta.7 is an experimental research cryptography system released for independent inspection, reverse engineering and cryptanalysis.
 
 **Experimental research software. Not formally certified.**
 
